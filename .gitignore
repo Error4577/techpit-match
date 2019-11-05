@@ -29,3 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# 画像はアップロードしない
+/app/assets/images/*
+
+# .DS_Storeファイルはアップロードしない
+.DS_Store
