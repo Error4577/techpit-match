@@ -33,6 +33,7 @@
 # 画像はアップロードしない
 /app/assets/images/*
 /public/uploads/*
+/db/dummy_img/*
 
 # .DS_Storeファイルはアップロードしない
 .DS_Store
